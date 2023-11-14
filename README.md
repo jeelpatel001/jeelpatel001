@@ -3,7 +3,8 @@
 - 🍳 Skills : Java | Kotlin | Firebase | HTML | CSS | PHP | Bootstrap | Tailwind
 - 🌱 I’m currently learning B.Tech Computer Engineering
 - 📫 Gmail : jeel.official.24@gmail.com
-- 📲 Social media : 
-Instagram : https://www.instagram.com/jeel_patel_24_/
-Linkedin : https://www.linkedin.com/in/jeelbhensadadiya/
-Twitter : https://twitter.com/Jeel_b_
+- 📲 Social media :
+- Youtube : https://www.youtube.com/@jeelpatel01
+- Instagram : https://www.instagram.com/jeel_patel_24_/
+- Linkedin : https://www.linkedin.com/in/jeelbhensadadiya/
+- Twitter : https://twitter.com/Jeel_b_
