@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jeelpatel001
-- 👀 I’m interested in Android App Development | Web Development  
+- 👀 I’m interested in Android App Development | Web Development
+- 🍳 Skills : Java | Kotlin | Firebase | HTML | CSS | PHP | Bootstrap | Tailwind
 - 🌱 I’m currently learning B.Tech Computer Engineering
 - 📫 Gmail : jeel.official.24@gmail.com
 - 📲 Social media : 
